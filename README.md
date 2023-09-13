@@ -1,7 +1,8 @@
-<!DOCTYPE html>
+	<!DOCTYPE html>
   <html lang="pl-PL">
 	<html>
 		<head>
+			Marcel Smagieł
 			<meta charset="utf-8">
 			<title>Marcel Smagieł</title>
 		</head>
@@ -26,6 +27,6 @@
 <p align="right"> <font color="brown" size="3" face="Verdana"> D:< przerażenie </font> </p> <br>
 <p align="right"> <font color="orange" size="6" face="Arial"> ;] buźka z puszczeniem oka </font> </p> <br>
 
-Marcel Smagieł
-		</body>
-	</html>
+
+</body>
+</html>
