@@ -1,7 +1,7 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
   <html lang="pl-PL">
-	<html>
-		<head>
+		<html>
+			<head>
 			Marcel Smagieł
 			<meta charset="utf-8">
 			<title>Marcel Smagieł</title>
@@ -13,7 +13,7 @@
 <p align="right"> <font color="red" size="4" face="Arial"> Marcel </font> </p> <br>
 <p align="right"> <font color="red" size="5" face="Arial"> Marcel </font> </p> <br>
 <p align="right"> <font color="red" size="6" face="Arial"> Marcel </font> </p> <br>
-<p align="right"> <font color="red" size="6" face="Arial"> Marcel </font> </p> <br>
+<p align="right"> <font color="red" size="7" face="Arial"> Marcel </font> </p> <br>
 <h1> Smagieł </h1><br>
 <h2> Smagieł </h2><br>
 <h3> Smagieł </h3><br>
