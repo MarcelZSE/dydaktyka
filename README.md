@@ -14,12 +14,19 @@
 <p align="right"> <font color="red" size="5" face="Arial"> Marcel </font> </p> <br>
 <p align="right"> <font color="red" size="6" face="Arial"> Marcel </font> </p> <br>
 <p align="right"> <font color="red" size="7" face="Arial"> Marcel </font> </p> <br>
-<h1> Smagieł </h1><br>
-<h2> Smagieł </h2><br>
-<h3> Smagieł </h3><br>
-<h4> Smagieł </h4><br>
-<h5> Smagieł </h5><br>
-<h6> Smagieł </h6><br>
+
+<h1> Smagieł </h1>
+<br>
+<h2> Smagieł </h2>
+<br>
+<h3> Smagieł </h3>
+<br>
+<h4> Smagieł </h4>
+<br>
+<h5> Smagieł </h5>
+<br>
+<h6> Smagieł </h6>
+<br>
 			
 <p align="right"> <font color="red" size="1" face="Arial"> :'( płacz </font> </p> <br>
 <p align="right"> <font color="blue" size="4" face="Times New Roman"> :‑D szczęście </font> </p> <br>
