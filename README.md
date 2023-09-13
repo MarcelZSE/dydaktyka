@@ -3,7 +3,7 @@
 	<html>
 		<head>
 			<meta charset="utf-8">
-			<title>Marcel Smagieł</title>
+		<title>Marcel Smagieł</title>
 		</head>
 		<body>
 <p align="right"> <font color="red" size="1" face="Arial"> Marcel </font> </p> <br>
@@ -26,6 +26,6 @@
 <p align="right"> <font color="brown" size="3" face="Verdana"> D:< przerażenie </font> </p> <br>
 <p align="right"> <font color="orange" size="6" face="Arial"> ;] buźka z puszczeniem oka </font> </p> <br>
 
-		Marcel Smagieł
+Marcel Smagieł
 		</body>
 	</html>
